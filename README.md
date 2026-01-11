@@ -1,4 +1,4 @@
-# Campus Leaders Program
+# Campus Leaders Program..
 
 A modern, responsive website for the Campus Leaders Program - a collaboration between SSPMCOE X GSA X SkillSync.
 
