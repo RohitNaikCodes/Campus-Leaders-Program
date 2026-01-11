@@ -1,6 +1,6 @@
 # Campus Leaders Program..
 
-A modern, responsive website for the Campus Leaders Program - a collaboration between SSPMCOE X GSA X SkillSync.
+A modern, responsive website for the Campus Leaders Program - a collaboration between SSPMCOE X GSA X SkillSync...
 
 ![Campus Leaders Program](https://img.shields.io/badge/Campus-Leaders%20Program-blue.svg)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
