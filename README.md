@@ -119,7 +119,7 @@ Edit the CSS custom properties in `styles.css`:
 **Organizations:**
 - **SSPMCOE**: Shree Swami Samarth Polytechnic College of Engineering
 - **GSA**: Global Student Association
-- **SkillSync**: Skills Synchronization Platform
+- **SkillSync**: Skills Synchronization Platform...
 
 **Program Focus:**
 - Leadership development
