@@ -34,7 +34,7 @@ A modern, responsive website for the Campus Leaders Program - a collaboration be
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the reposit...ory**
    ```bash
    git clone https://github.com/yourusername/Campus-Leaders-Program.git
    cd Campus-Leaders-Program
