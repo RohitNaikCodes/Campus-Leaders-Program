@@ -75,7 +75,7 @@ Campus-Leaders-Program/
 1. Save your QR code images as `qr1.png`, `qr2.png`, etc. in the `images/` folder
 2. The website will automatically display them in the QR grid
 
-### Updating Links
+### Updating Links...
 
 **User Report Button:**
 ```javascript
