@@ -16,7 +16,7 @@ A modern, responsive website for the Campus Leaders Program - a collaboration be
 - **Smooth Animations**: CSS transitions and hover effects
 - **Accessibility**: Support for reduced motion and high contrast preferences
 
-## 🎨 Design Highlights
+## 🎨 Design Highlights..
 
 - **Dark gradient background** with floating particle animations
 - **Glassmorphism effects** with backdrop blur and transparency
